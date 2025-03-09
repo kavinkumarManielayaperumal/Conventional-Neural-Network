@@ -1,0 +1,6 @@
+docker_env/
+__pycache__/
+dataset/
+*.csv
+.env
+.vscode/
