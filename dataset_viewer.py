@@ -31,7 +31,7 @@ def load_the_batch_files(folder_path):
       train_labels.append(labels)# every labels is stored in the list from the batch files
    train_images=np.concatenate(train_images)# its like all the images are stored in the list and now we are combining all the images in the form of 4d array
    train_labels=np.concatenate(train_labels)
-   return train_images, train_labels
+   return train_images, train_labels #
 
 
 if __name__=="__main__":
