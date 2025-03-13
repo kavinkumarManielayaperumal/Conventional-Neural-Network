@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt 
 import pickle
+import torch
 
 
 #pickle file are not lilke model file from machine learning model , this file is used to store the array of data , raw scalar data , raw image data with key value pair(in this case key is name of the image like label1, label2, label3 and value is the image data)

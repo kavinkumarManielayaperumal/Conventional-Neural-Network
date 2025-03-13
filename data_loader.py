@@ -24,7 +24,7 @@ if __name__=="__main__":
     data_folder=r"E:\for practice game\CNN\Conventional-Neural-Network\dataset\cifar-10-python\cifar-10-batches-py"
     images,labels=data_viewer(data_folder)
     
-    loaded_images=data_loader(images,labels,32)
+    loaded_images=data_loader(images,labels,batch_size=32)
     
     for images,labels in loaded_images:
         print(images.shape)

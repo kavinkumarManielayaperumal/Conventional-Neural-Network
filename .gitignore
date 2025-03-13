@@ -4,3 +4,4 @@ dataset/
 *.csv
 .env
 .vscode/
+check.py
