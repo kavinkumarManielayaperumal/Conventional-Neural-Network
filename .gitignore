@@ -6,3 +6,5 @@ dataset/
 .vscode/
 check.py
 *.pth
+cnn_model.pth 
+"cnn_model.pth" 
