@@ -89,9 +89,7 @@ Class 5 (Dog): Precision = 0.47, Recall = 0.43, F1-score = 0.45
 
 ---
 
-## 👨‍💻 Contributors
-- **Your Name** ([GitHub Profile](https://github.com/your-username))
-- **Other Contributors**
+
 
 ---
 
